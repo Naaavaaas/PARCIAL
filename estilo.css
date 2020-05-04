@@ -1,0 +1,24 @@
+/* BARRA DE NAVEGACION */
+nav.navbar {
+    background-color: #9EB7B8;
+    height: 90px
+}
+.btn {
+    font-size: 14px;
+    margin-top:25px;
+    background-color: #23A092;
+    color: #ffffff;
+}
+/* ELEMENTOS BODY */
+#pelis {
+    margin-top: 0px;
+	width: 5000px
+}
+/* PIE DE PAGINA */
+#pie{
+    background-color: #12626B;
+    height: 150px
+}
+#pie2 {
+    color: white
+}
